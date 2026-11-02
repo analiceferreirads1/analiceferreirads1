@@ -1,3 +1,4 @@
+<img width="1280" height="320" alt="github-banner-1280x320" src="https://github.com/user-attachments/assets/e44a9221-65ed-4c54-af30-46fabf5390bf" />
 
 <h1 align="center">Olá! 👋 Eu sou a Analice Ferreira</h1>
 
