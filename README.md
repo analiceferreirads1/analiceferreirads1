@@ -1,4 +1,4 @@
-<img src="banner.png" alt="Analice Ferreira | AI Automation Engineer. Não apenas uso IA. Eu construo com IA." width="100%">
+<img src="banner.svg" alt="Analice Ferreira | AI Automation Engineer. Não apenas uso IA. Eu construo com IA." width="100%">
 
 ## Sobre mim
 
