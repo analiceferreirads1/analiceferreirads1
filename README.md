@@ -3,12 +3,6 @@
 
 
 <p align="center">
-  💻 Desenvolvedora Full Stack — Node.js | React | React Native <br>
-  🚀 Apaixonada por código, novas tecnologias e grandes desafios <br>
-  📍 São Paulo, Brasil
-</p>
-
-<p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
 </p>
 
